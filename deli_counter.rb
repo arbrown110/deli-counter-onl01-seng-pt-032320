@@ -1,29 +1,4 @@
-# Write your code here.
 
- katz_deli =[] 
-person=["Logan", "Avi", "Spencer"] 
-
-def(katz_deli)
-  if katz_deli.empty?
-    puts "The line is currently empty"
-  else
-   current_line="The line is currently:" katz_deli.each_index_with(1) do |ot_deli, i|
-     current_line << "#{i}. #{ot_deli} "
-   end
-   puts current_line
-  end
-end
-
-
-def take_a_number(katz_deli,name)
-  if
-    puts
-  else  
-    
-    end
-  
-  end
-end  
 
 
 def line(katz_deli_deli)
